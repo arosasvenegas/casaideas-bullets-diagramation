@@ -2,7 +2,8 @@
 
 Componente customizado de contexto que representa los niveles inferiores de navegación dentro de una lista de viñetas con imágenes. 
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png) ~Agregar imagen de componente quick order ~
+![bullet](https://user-images.githubusercontent.com/73150391/196822972-47e8d187-fe2b-456c-b09d-b434d67b7bc3.PNG)
+
 
 ## Configuración 
 
